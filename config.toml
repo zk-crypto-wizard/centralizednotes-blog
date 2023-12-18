@@ -1,0 +1,23 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Centralized Notes"
+theme = "beautifulhugo"
+
+
+[Params]
+#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
+  subtitle = "Learning about zk-SNARKS"
+  mainSections = ["post","posts"]
+  logo = "img/zk-logo.png" # Expecting square dimensions
+  favicon = "img/zk-logo.png"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = true
+  readingTime = true
+  wordCount = true
+  useHLJS = true
+  socialShare = true
+  delayDisqus = true
+  showRelatedPosts = true
+#  hideAuthor = true
