@@ -1,11 +1,11 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Centralized Notes"
+title = "CN"
 theme = "beautifulhugo"
 
 
 [Params]
-#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
+  homeTitle = "Centralized Notes" # Set a different text for the header on the home page
   subtitle = "Learning about zk-SNARKS"
   mainSections = ["post","posts"]
   logo = "img/zk-logo.png" # Expecting square dimensions
