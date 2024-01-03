@@ -165,3 +165,5 @@ $(function(){
 {{ end }}
 
 {{- partial "footer_custom.html" . }}
+
+{{ if .Params.katex}}{{ partial "katex.html" . }}{{ end }}
