@@ -1,5 +1,5 @@
 ---
-title: "Intro to SNARKS"
+title: "What the fuck is a SNARK?!"
 date: 2024-01-03T17:34:02+01:00
 draft: false
 ---
