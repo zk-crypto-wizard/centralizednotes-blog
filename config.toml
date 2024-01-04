@@ -21,3 +21,6 @@ theme = "beautifulhugo"
   delayDisqus = true
   showRelatedPosts = true
   hideAuthor = true
+
+[markup.goldmark.renderer]
+unsafe= true
