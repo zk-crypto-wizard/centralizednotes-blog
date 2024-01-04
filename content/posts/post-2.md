@@ -55,3 +55,5 @@ All public parameters \\((\mathsf{C}, S_P, S_V, x, \pi)\\) reveal nothing about 
 A succinct preprocessing argument system (finally, we learn what a SNARK is) is a preprocessing argument system where the proof is short and the verification process is fast, i.e., \\(\text{size}(\pi) = \mathcal{O}(\log(|\mathsf{C}|, \lambda))\\) and \\(\text{time}(V) = \mathcal{O}(|x|, \log(|\mathsf{C}|), \lambda)\\), where \\(\lambda\\) is called the security parameter of the system.
 
 Now, the famous zk-SNARKs refer to SNARKs that are Zero Knowledge as defined above.
+
+This is essentially a brief summary of module I of the whiteboard sessions at zk hack. [Go check it out!](https://zkhack.dev/whiteboard/module-one/).
